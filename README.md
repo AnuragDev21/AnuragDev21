@@ -8,19 +8,9 @@
 - 🥅 2024 Goals: Contribute more to Open Source projects
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...-->
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anurag-mukherjee-7180001bb/)
+
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/anurag-mukherjee-7180001bb/" target="_blank">
-  <img align="left" alt="Anurag Mukherjee | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/>
 
 
 ### Languages and Tools:
