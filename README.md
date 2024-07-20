@@ -37,10 +37,10 @@
 <br/>
 <br/><br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag21-dev&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnuragDev21&count_private=true&show_icons=true&theme=tokyonight" />
 
 <figure><embed src="https://wakatime.com/share/@fa32d3c2-815a-4929-a9ab-ef825ee879e0/befe0b8c-0c21-492c-8fbc-9f3b8659d9a0.svg"></embed></figure>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag21-dev&layout=compact&theme=react&count_private=false" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragDev21&layout=compact&theme=react&count_private=false" />
 
-![anurag21-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anurag21-dev&theme=nightowl&hide_border=true)
+![Anurag's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnuragDev21&theme=nightowl&hide_border=true)
