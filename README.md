@@ -1,11 +1,11 @@
 ### Hi, Anurag here 👋
 
 
-- 👨🏻‍🎓 Currently persuing my B.Tech in CSE
-- 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning MERN Stack + Machine Learning
+- 👨🏻‍🎓 Currently persuing my undergrad in CS
+- 🔭 I’m currently working on MERN stack Web Development
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Creative Projects
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Working on Real-life ML models
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...-->
 
